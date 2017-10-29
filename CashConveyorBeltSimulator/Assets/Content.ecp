@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content>
+  <Name>Sample</Name>
+  <Configuration>Debug</Configuration>
+  <OutputDir>bin/{Configuration}/</OutputDir>
+  <Contents>
+    <ContentFile>
+      <Name>wood_center.png</Name>
+      <Processor />
+      <Importer />
+    </ContentFile>
+    <ContentFile>
+      <Name>apple.png</Name>
+      <Processor />
+      <Importer />
+    </ContentFile>
+    <ContentFile>
+      <Name>conveyor_belt.png</Name>
+      <Processor />
+      <Importer />
+    </ContentFile>
+  </Contents>
+</Content>
