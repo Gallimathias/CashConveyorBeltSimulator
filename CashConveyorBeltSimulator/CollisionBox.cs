@@ -1,4 +1,5 @@
-﻿using System;
+﻿using engenious;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,12 +7,10 @@ using System.Threading.Tasks;
 
 namespace CashConveyorBeltSimulator
 {
-    class Program
+    public class CollisionBox : Rectangle
     {
-        static void Main(string[] args)
+        public CollisionBox()
         {
-            using (var game = new CashGame())
-                game.Run();
         }
     }
 }
